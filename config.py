@@ -1,0 +1,1 @@
+WORKDIR = "C:\\Users\\valera\\Documents\\Fin\\Praktikum\\LR6\\Testing"
